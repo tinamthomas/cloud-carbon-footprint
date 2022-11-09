@@ -1,5 +1,13 @@
 # @cloud-carbon-footprint/app
 
+## 1.0.1
+
+### Patch Changes
+
+- 222bfed3: Updates to get integration tests running locally and on CI
+- Updated dependencies [fd4ec19b]
+  - @cloud-carbon-footprint/aws@0.14.1
+
 ## 1.0.0
 
 ### Major Changes

@@ -1,5 +1,12 @@
 # @cloud-carbon-footprint/cli
 
+## 1.8.1
+
+### Patch Changes
+
+- Updated dependencies [222bfed3]
+  - @cloud-carbon-footprint/app@1.0.1
+
 ## 1.8.0
 
 ### Minor Changes
