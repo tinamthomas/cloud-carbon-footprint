@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/aws
 
+## 0.14.1
+
+### Patch Changes
+
+- fd4ec19b: Adds new AWS regions and emissions factors for ap-southeast-3 and me-central-1
+
 ## 0.14.0
 
 ### Minor Changes
